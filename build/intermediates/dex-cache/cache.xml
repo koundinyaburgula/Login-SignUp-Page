@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\9ef51fffae9bc7b74b196fcb20f6fbd7a00c29fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_435e4beb131201ece49dc32e66893147cf550dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\common-1.0.0_aecff87e4c98c0ca5214ef65be97b326dac25581.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Wierd20\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Wierd20\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2ec145989ba251e39f936d53f2babb6ee9258682\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.0\a7782471b2a0de8fec071b8094a8aaf61c46ab70\support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.0_0c8a6e7438c1ff873bade3932fa801c590a3cb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\3154f0df6b9ce19061123640ffaba2087654a0d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_b787da69088d37721d934801c8ee6b4c1bfd5e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\f2ebfb8c1a35383a395c94a9f69666449adfe8fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_3019c6935af56703bb5167abe39e5f39e08bde78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\7dda75d4683e1bcd28d0faf4b5d1abbb73581abe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_39184a6ae24006b1ff193657170c80be2f6bb85a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\24fde2eb3ae76a01c9a7fadbfe27b0e0386623f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_c933b9a884a0564ce99d3a5a35c93c26d1e7e30d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ef8c9f4fdb70ec8e1d0b87020e7afc2a640a816e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Wierd20\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="69116e72ed169ed02de09a5545aea4d0e339400c">
+        <dex dex="F:\Wierd20\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2ad751526095f85b4751ea79f8be6f78d3f8fcaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\4161e5f401858131c4ef4d10926ad10c810f9874\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_157883514d785079f7d7acbb116d8f3517705304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\ddf1fff0f35c706606b4cce1f18ebfb07184681a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_4ef604daee45aea0279dcbfb0e9ba5fc646f71d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\7ff7548cd1dfb8d59b537cd935d51a77cf317bf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_15219104c0f62f873d2bcd90958b4f993881e12b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\common-1.0.0_575d81c0e6f5086041101240209ca4c5ce8abfe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koundinya burgula\.android\build-cache\27909a3c2bad449097a7625c820301320a55a5a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="F:\Wierd20\app\build\intermediates\pre-dexed\debug\classes_6063f08b8c8a6b429893dc34d1ed097fe56e24d8.jar" />
+    </item>
+
+</items>
